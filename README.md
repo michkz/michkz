@@ -1,4 +1,4 @@
-![github_aboutme_bg](https://user-images.githubusercontent.com/17614548/119760198-dbb8bd80-bea9-11eb-8e28-5425ed1e159f.png)
+![github_aboutme_bg_purple](https://user-images.githubusercontent.com/17614548/120622440-18168b80-c45f-11eb-84fb-d14a36ce7d16.png)
 
 
 <!--
