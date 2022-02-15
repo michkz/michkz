@@ -1,4 +1,4 @@
-![github_aboutme_bg_purplengreen](https://user-images.githubusercontent.com/17614548/121347293-4eed1580-c927-11eb-8395-8a0f54ea17bd.png)
+![github_aboutme_bg](https://user-images.githubusercontent.com/17614548/154082528-a6f71101-370f-4fc7-9ffa-56c356f63e43.png)
 
 <!--
 **michkz/michkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
